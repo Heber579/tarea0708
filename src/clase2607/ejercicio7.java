@@ -53,5 +53,6 @@ public class ejercicio7 {
             System.out.println("La suma total es "+cociente);
         }
     }
-    
+//cambios realizados desde casa
+//Es una prueba
 }
